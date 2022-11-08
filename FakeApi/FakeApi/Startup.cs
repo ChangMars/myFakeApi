@@ -117,7 +117,7 @@ namespace FakeApi
 			{
 				//option.UseSqlServer("server=localhost; Database=FakeDb; User Id=sa; Password=PaSSword12!");
 				//option.UseSqlServer(Configuration["DbContext:ConnectionString"]);
-				option.UseNpgsql(Configuration["GCPPostgresDbContext:ConnectionString"]);
+				option.UseNpgsql(Configuration["PostgresDbContext:ConnectionString"]);
 			});
 
 			// 加入 automapper扫描 profile 文件
