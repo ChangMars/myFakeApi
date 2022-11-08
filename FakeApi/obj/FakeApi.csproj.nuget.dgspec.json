@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\016890\\Desktop\\FakeApi\\FakeApi\\FakeApi.csproj": {}
+    "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\016890\\Desktop\\FakeApi\\FakeApi\\FakeApi.csproj": {
+    "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\016890\\Desktop\\FakeApi\\FakeApi\\FakeApi.csproj",
+        "projectUniqueName": "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj",
         "projectName": "FakeApi",
-        "projectPath": "C:\\Users\\016890\\Desktop\\FakeApi\\FakeApi\\FakeApi.csproj",
+        "projectPath": "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj",
         "packagesPath": "C:\\Users\\016890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\016890\\Desktop\\FakeApi\\FakeApi\\obj\\",
+        "outputPath": "D:\\Github\\myfakeapi\\FakeApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\016890\\AppData\\Roaming\\NuGet\\NuGet.Config",

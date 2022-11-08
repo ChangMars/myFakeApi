@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fp/tzjqliJMd+Dd6X9c8YQsB8X0Ff4ve75mnOsapOjBSsCav4x7dmLjMLJ+ng6CYdolBxVru9nvpgs+ZThO5Ag==",
+  "dgSpecHash": "qPB1UJNHycahpYznFbAA1YnOXhaQhxevqs5iM8ALgNDBcmpdp9AhwVoy7nMTT0UY5BhEX/w1WCC4c2eQrau56Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\016890\\Desktop\\FakeApi\\FakeApi\\FakeApi.csproj",
+  "projectFilePath": "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\016890\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\016890\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
