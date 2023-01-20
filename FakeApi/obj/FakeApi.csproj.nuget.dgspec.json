@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj": {}
+    "F:\\Github\\myFakeApi\\FakeApi\\FakeApi.csproj": {}
   },
   "projects": {
-    "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj": {
+    "F:\\Github\\myFakeApi\\FakeApi\\FakeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj",
+        "projectUniqueName": "F:\\Github\\myFakeApi\\FakeApi\\FakeApi.csproj",
         "projectName": "FakeApi",
-        "projectPath": "D:\\Github\\myfakeapi\\FakeApi\\FakeApi.csproj",
-        "packagesPath": "C:\\Users\\016890\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\myfakeapi\\FakeApi\\obj\\",
+        "projectPath": "F:\\Github\\myFakeApi\\FakeApi\\FakeApi.csproj",
+        "packagesPath": "C:\\Users\\XRong\\.nuget\\packages\\",
+        "outputPath": "F:\\Github\\myFakeApi\\FakeApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\016890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\XRong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
